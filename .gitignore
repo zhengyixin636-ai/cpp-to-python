@@ -1,0 +1,8 @@
+# 忽略 CodeBuddy 工具目录
+.codebuddy/
+
+# 忽略 Python 常见产物
+__pycache__/
+*.pyc
+.venv/
+venv/
